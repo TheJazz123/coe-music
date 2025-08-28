@@ -4,11 +4,10 @@ Background music and sound assets for Code of Eternity.
 # Code of Eternity – Music 🎵
 
 This repository contains the **background music and sound assets** used in the game  
-[Code of Eternity](https://github.com/yourusername/code-of-eternity).
+[Code of Eternity](https://github.com/TheJazz123/code-of-eternity).
 
 ## 📂 Structure
 - `music/` – Background music tracks
-- `sound_effects/` (optional if you add later)
 
 ## 🔗 Usage
 To enable music in the game:
